@@ -1,4 +1,4 @@
-MskRCNN Arxiv: Mask R-CNN https://arxiv.org/abs/1703.06870
+MaskRCNN Arxiv: Mask R-CNN https://arxiv.org/abs/1703.06870
 
 Github Repo: https://github.com/facebookresearch/Detectron?utm_source=catalyzex.com
 
